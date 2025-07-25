@@ -6,7 +6,7 @@ Un RAG donde un modelo LLM responde como si fuera un sabio monje benedictino, ut
 
 - Python 3.10 o superior
 - `pip`
-- `.env` con las siguientes variables:
+- Tenés que crear un `.env` en la carpeta src/ con las siguientes variables:
 ```
 OPENAI_API_KEY=tu_api_key
 GEMINI=tu_api_key
