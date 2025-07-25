@@ -1,0 +1,582 @@
+[
+  {
+    "id": "1",
+    "texto": "Si tuviésemos fe y viésemos un alma en pecado mortal, moriríamos de terror!",
+    "autor": "San Juan María Vianney"
+  },
+  {
+    "id": "2",
+    "texto": "Nada nos altera como el amor propio y la estima que tenemos de nosotros mismos",
+    "autor": "San Francisco de Sales"
+  },
+  {
+    "id": "3",
+    "texto": "Todo lo puedo en Cristo que me fortalece",
+    "autor": "Filipenses 4,13"
+  },
+  {
+    "id": "4",
+    "texto": "Les digo esto para que encuentren la paz en mí. En el mundo tendrán que sufrir; pero tengan valor: yo he vencido al mundo».",
+    "autor": "Juan 16,33"
+  },
+  {
+    "id": "5",
+    "texto": "No hay árbol bueno que dé frutos malos, ni árbol malo que dé frutos buenos: cada árbol se reconoce por su fruto. No se recogen higos de los espinos ni se cosechan uvas de las zarzas.",
+    "autor": "Lucas 6,43-44"
+  },
+  {
+    "id": "6",
+    "texto": "¿Quién obró así, quién hizo esto? El que llama a las generaciones desde el principio, yo, el Señor, el Primero, y que seré el mismo al final.",
+    "autor": "Isaías 41,4"
+  },
+  {
+    "id": "7",
+    "texto": "Vanidad es amar lo que tan rápido se pasa y no buscar con solicitud el gozo perdurable",
+    "autor": "Imitación de Cristo"
+  },
+  {
+    "id": "8",
+    "texto": "Por mi parte, yo estaré con ustedes todos los días, hasta el fin de los tiempos.",
+    "autor": "Mateo 28,20"
+  },
+  {
+    "id": "9",
+    "texto": "Sea que ustedes coman, sea que beban, o cualquier cosa que hagan, háganlo todo para la gloria de Dios.",
+    "autor": "1 Corintios 10,31"
+  },
+  {
+    "id": "10",
+    "texto": "El que se atribuye a sí mismo algo bueno, impide que la gracia de Dios venga a él; porque la gracia del Espíritu Santo siempre busca el corazón humilde.",
+    "autor": "Imitación de Cristo"
+  },
+  {
+    "id": "11",
+    "texto": "Amémonos los unos a los otros, porque el amor procede de Dios, y el que ama ha nacido de Dios y conoce a Dios. El que no ama no ha conocido a Dios, porque Dios es amor.",
+    "autor": "1 Juan 4,7-8"
+  },
+  {
+    "id": "12",
+    "texto": "Si nos amamos los unos a los otros, Dios permanece en nosotros y el amor de Dios ha llegado a su plenitud en nosotros.",
+    "autor": "1 Juan 4,12"
+  },
+  {
+    "id": "13",
+    "texto": "El que dice: «Amo a Dios», y no ama a su hermano, es un mentiroso. ¿Cómo puede amar a Dios, a quien no ve, el que no ama a su hermano, a quien ve?",
+    "autor": "1 Juan 4,20"
+  },
+  {
+    "id": "14",
+    "texto": "Nosotros amamos porque Dios nos amó primero.",
+    "autor": "1 Juan 4,19"
+  },
+  {
+    "id": "15",
+    "texto": "Y me hice débil con los débiles, para ganar a los débiles. Me hice todo para todos, para ganar por lo menos a algunos, a cualquier precio.",
+    "autor": "1 Corintios 9,22"
+  },
+  {
+    "id": "16",
+    "texto": "«El que quiera venir detrás de mí, que renuncie a sí mismo, que cargue con su cruz y me siga. Porque él que quiera salvar su vida, la perderá; y el que pierda su vida a causa de mí, la encontrará.",
+    "autor": "Mateo 16,24-25"
+  },
+  {
+    "id": "17",
+    "texto": "Dios ha sabido organizar de tal manera las cosas, que las criaturas encuentran su propia felicidad glorificando a Dios.",
+    "autor": "Antonio Royo Marín"
+  },
+  {
+    "id": "18",
+    "texto": "¡Cuán altamente se glorifica a Dios cuando, para complacerle, nos sometemos a María a ejemplo de Jesucristo, nuestro único modelo!",
+    "autor": "Tratado de la Verdadera Devoción, 18"
+  },
+  {
+    "id": "19",
+    "texto": "¿De qué le servirá al hombre ganar el mundo entero si pierde su vida?",
+    "autor": "Mateo 16,26"
+  },
+  {
+    "id": "20",
+    "texto": "La oración es la elevación de la mente y el corazón a Dios.",
+    "autor": "San Juan Damasceno"
+  },
+  {
+    "id": "21",
+    "texto": "Porque el que no tiene misericordia será juzgado sin misericordia, pero la misericordia se ríe del juicio.",
+    "autor": "Santiago 2,13"
+  },
+  {
+    "id": "22",
+    "texto": "¿De qué le sirve a uno, hermanos míos, decir que tiene fe, si no tiene obras? ¿Acaso esa fe puede salvarlo?",
+    "autor": "Santiago 2,14"
+  },
+  {
+    "id": "23",
+    "texto": "¿Tú crees que hay un solo Dios? Haces bien. Los demonios también creen, y sin embargo, tiemblan.",
+    "autor": "Santiago 2,19"
+  },
+  {
+    "id": "24",
+    "texto": "Tan ciegos son los hombres que hasta se enorgullecen de su propia ceguera.",
+    "autor": "Confesiones, Libro III"
+  },
+  {
+    "id": "25",
+    "texto": "«Yo soy la Resurrección y la Vida. El que cree en mí, aunque muera, vivirá: y todo el que vive y cree en mí, no morirá jamás.»",
+    "autor": "Juan 11,25-26"
+  },
+  {
+    "id": "26",
+    "texto": "El que tiene apego a su vida la perderá; y el que no está apegado a su vida en este mundo, la conservará para la Vida eterna.",
+    "autor": "Juan 12,25"
+  },
+  {
+    "id": "27",
+    "texto": "Si te agradan las cosas del mundo, alaba a Dios por ellas y endereza al artífice tu amor; no sea que en las cosas que a ti te placen a él le desagrades.",
+    "autor": "Confesiones, Libro IV"
+  },
+  {
+    "id": "28",
+    "texto": "Podía más en mí el mal acostumbrado que el bien no experimentado.",
+    "autor": "Confesiones, Libro VIII"
+  },
+  {
+    "id": "29",
+    "texto": "El que siembra para satisfacer su carne, de la carne recogerá sólo la corrupción; y el que siembra según el Espíritu, del Espíritu recogerá la Vida eterna.",
+    "autor": "Gálatas 6,8"
+  },
+  {
+    "id": "30",
+    "texto": "Que la única deuda con los demás sea la del amor mutuo: el que ama al prójimo ya cumplió toda la Ley.",
+    "autor": "Romanos 13,8"
+  },
+  {
+    "id": "31",
+    "texto": "La oración es tratar de amistad con quien sabemos que nos ama.",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": "32",
+    "texto": "Porque toda carne es como hierba y toda su gloria como flor del campo: la hierba se seca y su flor se marchita, pero la Palabra del Señor permanece para siempre.",
+    "autor": "1 Pedro 1,24-25"
+  },
+  {
+    "id": "33",
+    "texto": "«Yo soy la luz del mundo. El que me sigue no andará en tinieblas, sino que tendrá la luz de la Vida»",
+    "autor": "Juan 8,12"
+  },
+  {
+    "id": "34",
+    "texto": "El que vive en Cristo es una nueva criatura: lo antiguo ha desaparecido, un ser nuevo se ha hecho presente.",
+    "autor": "2 Corintios 5,17"
+  },
+  {
+    "id": "35",
+    "texto": "Y ya no vivo yo, sino que Cristo vive en mí: la vida que sigo viviendo en la carne, la vivo en la fe en el Hijo de Dios, que me amó y se entregó por mí.",
+    "autor": "Gálatas 2,20"
+  },
+  {
+    "id": "36",
+    "texto": "Todos debemos servir a Dios allí donde nos sintamos llamados.",
+    "autor": "Santa Teresa de Calcuta"
+  },
+  {
+    "id": "37",
+    "texto": "No son los que me dicen: «Señor, Señor», los que entrarán en el Reino de los Cielos, sino los que cumplen la voluntad de mi Padre que está en el cielo.",
+    "autor": "Mateo 7,21"
+  },
+  {
+    "id": "38",
+    "texto": "Tarde os amé, Dios mío. Vos estabais dentro de mi alma y yo distraído fuera, y allí mismo os buscaba;Vos estabais conmigo y yo no estaba con Vos; Pero Vos me llamasteis y gritaste tanto que rompiste mi sordera. Brilló tanto tú luz que curó mi ceguera.",
+    "autor": "Confesiones, Libro X"
+  },
+  {
+    "id": "39",
+    "texto": "¿Para qué queréis saber la voluntad de Dios si la que ya sabéis no la cumplís?",
+    "autor": "San Juan de Ávila"
+  },
+  {
+    "id": "40",
+    "texto": "Como la cierva sedienta busca las corrientes de agua, así mi alma suspira por ti, mi Dios. Mi alma tiene sed de Dios, del Dios viviente: ¿Cuándo iré a contemplar el rostro de Dios?",
+    "autor": "Salmo 41, 2-3"
+  },
+  {
+    "id": "41",
+    "texto": "«Si aceptamos de Dios lo bueno, ¿no aceptaremos también lo malo?».",
+    "autor": "Job 2,10"
+  },
+  {
+    "id": "42",
+    "texto": "Mi santidad y perfección consisten en una estrecha unión de mi voluntad con la de Dios.",
+    "autor": "Santa Faustina"
+  },
+  {
+    "id": "43",
+    "texto": "En la oración lo que cuenta no es lo que nosotros hacemos, sino lo que Dios hace en nosotros durante ese tiempo.",
+    "autor": "Tiempo para Dios, p.53"
+  },
+  {
+    "id": "44",
+    "texto": "El mejor método de oración es no tenerlo, porque la oración no se obtiene por artificio sino por gracia de Dios",
+    "autor": "Santa Juana Chantal"
+  },
+  {
+    "id": "45",
+    "texto": "Gracias a la constancia salvarás vuestras vidas",
+    "autor": "Lucas 21,19"
+  },
+  {
+    "id": "46",
+    "texto": "El amor se ha de poner más en las obras que en las palabras.",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": "47",
+    "texto": "Pero yo he venido para que mis ovejas tengan Vida y la tengan en abundancia",
+    "autor": "Juan 10,10"
+  },
+  {
+    "id": "48",
+    "texto": "¡Que en la prosperidad no me agrande ni en la humildad me deprima!",
+    "autor": "Santo Tomás de Aquino"
+  },
+  {
+    "id": "49",
+    "texto": "Pues la vida es estar con Cristo, donde está Cristo allí reside la vida, allí está el Reino",
+    "autor": "San Ambrosio"
+  },
+  {
+    "id": "50",
+    "texto": "El cristianismo es la religión de la Palabra de Dios, no de un verbo escrito y mudo, sino del Verbo encarnado y vivo.",
+    "autor": "San Bernardo"
+  },
+  {
+    "id": "51",
+    "texto": "Nada vale como la oración: hace posible lo que es imposible, fácil lo que es difícil",
+    "autor": "San Juan Crisóstomo"
+  },
+  {
+    "id": "52",
+    "texto": "Quien ora se salva ciertamente, quien no ora se condena ciertamente",
+    "autor": "San Alfonso María de Ligorio"
+  },
+  {
+    "id": "53",
+    "texto": "Es necesario acordarnos, cuando llamemos a Dios 'Padre nuestro', de que debemos comportarnos como hijos de Dios",
+    "autor": "San Cipriano"
+  },
+  {
+    "id": "54",
+    "texto": "El pueblo de Dios no tiene aquí una ciudad permanente, sino que busca la futura",
+    "autor": "Lumen Gentium, 44"
+  },
+  {
+    "id": "55",
+    "texto": "El gozo y la alegría de ser cristianos es para maravillarse y comunicarlo",
+    "autor": "Papa Francisco"
+  },
+  {
+    "id": "56",
+    "texto": "La vida tiene sentido en la medida que se hace don gratuito para el prójimo",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": "57",
+    "texto": "Amar es darlo todo y darse a uno mismo",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": "58",
+    "texto": "Contemplando a Cristo en la cruz caemos en la cuenta de que le debemos nuestra vida porque él entregó la suya por la nuestra",
+    "autor": "Papa Francisco"
+  },
+  {
+    "id": "59",
+    "texto": "A la generosidad de Cristo no cabe responderle con un 'muchas gracias', hay que dar la vida, con un agradecimiento de todo el ser",
+    "autor": "Papa Francisco"
+  },
+  {
+    "id": "60",
+    "texto": "El corazón de Jesús es la fuente de donde brotó la salvación para toda la humanidad",
+    "autor": "Dilexit Nos, 52"
+  },
+  {
+    "id": "61",
+    "texto": "No alcanzamos nuestra humanidad plena si no salimos de nosotros mismos, y no llegamos a ser enteramente nosotros mismos si no amamos",
+    "autor": "Dilexit Nos, 59"
+  },
+  {
+    "id": "62",
+    "texto": "En el amor humano de Jesús, y no apartándonos de él, encontramos su amor divino; encontramos lo infinito en lo finito",
+    "autor": "Dilexit Nos, 67"
+  },
+  {
+    "id": "63",
+    "texto": "Toda la vida cristiana es como una gran peregrinación a la casa del Padre",
+    "autor": "San Juan Pablo II"
+  },
+  {
+    "id": "64",
+    "texto": "El Sagrado Corazón es el símbolo y la imágen expresa de la caridad infinita de Jesucristo, caridad que nos incita a devolver amor por amor",
+    "autor": "León XIII"
+  },
+  {
+    "id": "65",
+    "texto": "La actitud más adecuada es depositar la confianza del corazón fuera de nosotros mismos: en la infinita misericordia de un Dios que ama sin límites y que lo ha dado todo en la Cruz de Cristo",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": "66",
+    "texto": "Este corazón muy adorable y amable de Jesús, ardiendo del amor que nos tiene, en el que vemos nuestros nombres escritos... Es un gran consuelo que seamos amados tanto por Nuestro Señor que nos lleva siempre en su corazón",
+    "autor": "San Francisco de Sales"
+  },
+  {
+    "id": "67",
+    "texto": "No dejen de vivir la alegría de intentar comunicar el amor de Cristo a los demás",
+    "autor": "Dilexit Nos, 216"
+  },
+  {
+    "id": "68",
+    "texto": "Más vale un gramo de caridad que cien kilos de razón",
+    "autor": "San Bernardo"
+  },
+  {
+    "id": "69",
+    "texto": "Más deseo sentir el arrepentimiento que saber definirlo",
+    "autor": "Imitación de Cristo"
+  },
+  {
+    "id": "70",
+    "texto": "Porque nos hiciste para Tí, y nuestro corazón está inquieto hasta que no descansa en tí",
+    "autor": "San Agustín"
+  },
+  {
+    "id": "71",
+    "texto": "El hombre es creado para alabar, hacer reverencia y servir a Dios Nuestro Señor y mediante esto salvar su alma",
+    "autor": "San Ignacio de Loyola"
+  },
+  {
+    "id": "72",
+    "texto": "Siendo el mundo indigno de recibir al Hijo de Dios inmediatamente de las manos del Padre, Él lo dio a María, a fin de que el mundo lo recibiera por ella",
+    "autor": "San Luis María, Tratado de la Verdadera Devoción"
+  },
+  {
+    "id": "73",
+    "texto": "Dios reunió todas las aguas en un lugar y las llamó mar; reunió todas sus gracias en un lugar y las llamó María",
+    "autor": "San Luis María, Tratado de la Verdadera Devoción"
+  },
+  {
+    "id": "74",
+    "texto": "Por el bautismo fuimos sepultados con él en la muerte, para que así como Cristo resucitó por la gloria del Padre, también nosotros llevemos una Vida nueva.",
+    "autor": "Romanos 6,4"
+  },
+  {
+    "id": "75",
+    "texto": "¡Si no hay resurrección, Cristo no resucitó! Y si Cristo no resucitó, es vana nuestra predicación y vana también la fe de ustedes.",
+    "autor": "1 Corintios 15,13-14"
+  },
+  {
+    "id": "76",
+    "texto": "Si todavía buscara agradar a los hombres, no sería siervo de Cristo",
+    "autor": "Gálatas 1,10"
+  },
+  {
+    "id": "77",
+    "texto": "La Eucaristía es el sacramento del amor; es el signo visible del amor de Dios por nosotros",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": "78",
+    "texto": "Nadie puede tener a Dios por padre si no tiene a la Iglesia por madre",
+    "autor": "San Cipriano"
+  },
+  {
+    "id": "79",
+    "texto": "Jesucristo ha venido al mundo por medio de María, y es por medio de ella como debemos llegar a Él",
+    "autor": "San Luis María, Tratado de la Verdadera Devoción"
+  },
+  {
+    "id": "80",
+    "texto": "Tu intención debe ser siempre la de conformar tu voluntad a la de Dios y no amoldar a la tuya la de Dios",
+    "autor": "Lorenzo Scúpoli, Combate Espiritual"
+  },
+  {
+    "id": "81",
+    "texto": "Nunca temas amar demasiado a la Santísima Virgen María. No hay forma de amarla más de lo que Jesús la amó.",
+    "autor": "San Maximiliano Kolbe"
+  },
+  {
+    "id": "82",
+    "texto": "No debe separarse lo que Dios ha unido tan perfectamente. Están tan juntos Jesús y María que quien contemple a Jesús ve a María; quienquiera que ame a Jesús, ama a María; toda persona devota de Jesús, es devota de María.",
+    "autor": "San Juan Eudes"
+  },
+  {
+    "id": "83",
+    "texto": "Sin parangón alguno mucho más fuerte es tu Dios, que tiene mayor voluntad de salvarte que el enemigo de perderte",
+    "autor": "Lorenzo Scúpoli, Combate Espiritual"
+  },
+  {
+    "id": "84",
+    "texto": "Está muy bien no hacer el mal, pero está muy mal no hacer el bien",
+    "autor": "Desconocido"
+  },
+  {
+    "id": "85",
+    "texto": "Yo estoy junto a la puerta y llamo: si alguien oye mi voz y me abre, entraré en su casa y cenaremos juntos.",
+    "autor": "Apocalípsis 3,20"
+  },
+  {
+    "id": "86",
+    "texto": "Camina con los pies en la tierra, pero teniendo la mirada y el corazón en el cielo",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": "87",
+    "texto": "Si supiéramos bien lo débiles que somos, en lugar de sentirnos sorprendidos de vernos por los suelos, nos sorprenderíamos de poder permanecer en pie",
+    "autor": "San Francisco de Sales"
+  },
+  {
+    "id": "88",
+    "texto": "La conversión no es más que mover la mirada de abajo hacia arriba, un simple movimiento de los ojos es suficiente",
+    "autor": "Carlo Acutis"
+  },
+  {
+    "id": "89",
+    "texto": "La felicidad es mirar hacia Dios, la tristeza es mirar hacia uno mismo",
+    "autor": "Carlo Acutis"
+  },
+  {
+    "id": "90",
+    "texto": "Todas las personas nacen como originales, pero muchas mueren como fotocopias",
+    "autor": "Carlo Acutis"
+  },
+  {
+    "id": "91",
+    "texto": "«Yo soy el pan vivo bajado del cielo. El que coma de este pan vivirá eternamente, y el pan que yo daré es mi carne para la Vida del mundo»",
+    "autor": "Juan 6,51"
+  },
+  {
+    "id": "92",
+    "texto": "«Porque mi carne es la verdadera comida y mi sangre, la verdadera bebida. El que come mi carne y bebe mi sangre permanece en mí y yo en él»",
+    "autor": "Juan 6,55-56"
+  },
+  {
+    "id": "93",
+    "texto": "Acuérdense de lo que les dije: el servidor no es más grande que su señor. Si me persiguieron a mí, también los perseguirán a ustedes; si fueron fieles a mi palabra, también serán fieles a la de ustedes.",
+    "autor": "Juan 15,20"
+  },
+  {
+    "id": "94",
+    "texto": "Como el Padre me amó, también yo los he amado a ustedes. Permanezcan en mi amor. Si cumplen mis mandamientos, permanecerán en mi amor. como yo cumplí los mandamientos de mi Padre y permanezco en su amor. Les he dicho esto para que mi gozo sea el de ustedes, y ese gozo sea perfecto. Este es mi mandamiento: Amense los unos a los otros, como yo los he amado.",
+    "autor": "Juan 15,9-12"
+  },
+  {
+    "id": "95",
+    "texto": "Si juzgas a la gente, no tienes tiempo para amarla.",
+    "autor": "Santa Teresa de Calcuta"
+  },
+  {
+    "id": "96",
+    "texto": "El demonio tiene miedo a la gente alegre.",
+    "autor": "San Juan Bosco"
+  },
+  {
+    "id": "97",
+    "texto": "Predica el Evangelio en todo momento y, si es necesario, usa las palabras.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": "98",
+    "texto": "¡Señor, haz de mí un instrumento de tu paz! Que allí donde haya odio, ponga yo amor.",
+    "autor": "San Francisco de Asís"
+  },
+  {
+    "id": "99",
+    "texto": "Ama y haz lo que quieras.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": "100",
+    "texto": "La medida del amor es amar sin medida.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": "101",
+    "texto": "Es mejor cojear por el camino correcto, que correr por uno equivocado.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": "102",
+    "texto": "Cuando lo que es corruptible se revista de la incorruptibilidad y lo que es mortal se revista de la inmortalidad, entonces se cumplirá la palabra de la Escritura: La muerte ha sido vencida. ¿Dónde está, muerte, tu victoria? ¿Dónde está tu aguijón?",
+    "autor": "1 Corintios 15,54-55"
+  },
+  {
+    "id": "103",
+    "texto": "Nuestro progreso consiste en no imaginarnos nunca que hemos logrado la meta.",
+    "autor": "San Bernardo"
+  },
+  {
+    "id": "104",
+    "texto": "¿Qué es la avaricia? Un continuo vivir en la pobreza por temor a ser pobre",
+    "autor": "San Bernardo"
+  },
+  {
+    "id": "105",
+    "texto": "La verdadera perfección consiste en esto: hacer siempre la santísima voluntad de Dios.",
+    "autor": "Santa Catalina de Siena"
+  },
+  {
+    "id": "106",
+    "texto": "Si conociéramos el valor de la Santa Misa, ¡qué gran esfuerzo haríamos por asistir a ella!",
+    "autor": "San Juan María Vianney"
+  },
+  {
+    "id": "107",
+    "texto": "El sacrificio de la Misa es la misma ofrenda que Jesús hizo en la cruz.",
+    "autor": "San Pío de Pietrelcina"
+  },
+  {
+    "id": "108",
+    "texto": "La Eucaristía es el amor que se convierte en alimento.",
+    "autor": "San Agustín"
+  },
+  {
+    "id": "109",
+    "texto": "Por tanto, habiendo pronunciado y dicho sobre el pan: ‘Este es mi Cuerpo’, ¿quién se atreverá a dudar de él a partir de entonces? Y habiendo afirmado y dicho: 'Esta es mi Sangre', ¿quién puede dudar y decir que no es Su Sangre?",
+    "autor": "San Cirilo de Jerusalén"
+  },
+  {
+    "id": "110",
+    "texto": "En la oración, nuestra principal tarea es amar, pero en la relación con Dios, amar es, en primer lugar, dejarse amar",
+    "autor": "Jacques Philippe, Tiempo para Dios"
+  },
+  {
+    "id": "111",
+    "texto": "Dios no necesita nuestras obras, pero tiene sed de nuestro amor",
+    "autor": "Santa Teresa de Lisieux"
+  },
+  {
+    "id": "112",
+    "texto": "Si hubiera entendido que en este palacio pequeño de mi alma cabe tan gran Rey, no lo hubiera dejado solo tantas veces, y hubiera procurado que mi alma no estuviése tan sucia",
+    "autor": "Santa Teresa de Jesús"
+  },
+  {
+    "id": "113",
+    "texto": "Es necesario acordarse de Dios más a menudo que de respirar",
+    "autor": "San Gregorio Nacianceno"
+  },
+  {
+    "id": "114",
+    "texto": "Que nuestra oración se oiga no depende de la cantidad de palabras, sino del fervor de nuestras almas",
+    "autor": "San Juan Crisóstomo"
+  },
+  {
+    "id": "115",
+    "texto": "Despiértate, tú que duermes, levántate de entre los muertos, y Cristo te iluminará",
+    "autor": "Efesios 5,14"
+  },
+  {
+    "id": "116",
+    "texto": "Yo les comuniqué tu palabra, y el mundo los odió, porque ellos no son del mundo.",
+    "autor": "Juan 17,14"
+  }
+]
