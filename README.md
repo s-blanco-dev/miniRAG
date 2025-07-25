@@ -50,7 +50,9 @@ respondeGemini(frase_usuario, prompt, autores)
 ## 🧠 Modelos soportados
 
 * ✅ GPT-3.5 / GPT-4 (OpenAI)
-* ✅ Gemini 1.5 Flash (Google)
+* ✅ Gemini 1.5 Flash (Google), es el modelo por defecto de este proyecto dado que se me hizo más fácil utilizar su API.
+* **Nota**: También estuve investigando sobre el uso de modelos locales con [Ollama](https://ollama.com/), que permite ejecutar LLMs como LLaMA, Mistral o Gemma directamente en tu máquina sin depender de APIs externas. Por razones de fuerza menor decidí no incluirlo en el proyecto.
+
 
 ## Demostración
 ![demo](https://github.com/user-attachments/assets/cac2df34-87f2-420c-8d12-771ddf662aa1)
