@@ -24,9 +24,10 @@ pip install -r requirements.txt
 
 ## 🚀 Ejecución
 
-El proyecto incluye una demo en `main.py` que permite probar el sistema con una frase de entrada por el usuario:
+El proyecto incluye una demo en `main.py` que permite probar el sistema con una frase de entrada por el usuario, pero antes hay que cargar las frases ejecutando `rag.py `:
 
 ```bash
+python src/rag.py
 python src/main.py
 ```
 
