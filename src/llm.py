@@ -3,7 +3,7 @@ from openai import OpenAI
 import google.generativeai as genai
 
 def respondeOpenai(frase_usuario: str, prompt: str, autores: set):
-    client_openai = OpenAI(api_key=os.getenv("OPENAI"))
+    client_openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
     response = client_openai.chat.completions.create(
         model="gpt-3.5-turbo",

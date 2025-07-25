@@ -1,5 +1,8 @@
 from rag import construir_prompt
 from llm import respondeGemini, respondeOpenai 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 frase_usuario = input("Insertá la frase nomás:\n> ")
 
